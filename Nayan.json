@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "ZORO&MAHI",
+  "BOTNAME": "𝗧𝗔𝗡𝗩𝗜𝗥-𝗥𝗢𝗕𝗢𝗧",
   "PREFIX": "/",
   "OPERATOR": [
     "100072881080249",
-    "100081653525831"
+    "61552536510387"
   ],
   "ADMINBOT": [
     "100072881080249",
-    "100074244664586"
+    "61552536510387"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
